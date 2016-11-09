@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPSModuleVVIT</string>
+    <string name="upload_coordinates">Upload Coordinates</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="hello_world">Hello World</string>
+</resources>
