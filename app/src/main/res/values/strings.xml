@@ -4,4 +4,6 @@
     <string name="start">Start</string>
     <string name="stop">Stop</string>
     <string name="hello_world">Hello World</string>
+    <string name="enter_bus_route">Enter Bus Route</string>
+    <string name="save_coordinates">Save Coordinates</string>
 </resources>
